@@ -71,7 +71,6 @@ Beyond coding, I enjoy learning new tech, solving complex problems, and creating
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lamnhuthoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
