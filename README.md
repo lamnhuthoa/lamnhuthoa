@@ -86,8 +86,8 @@ Beyond coding, I enjoy learning new tech, solving complex problems, and creating
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lamnhuthoa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- # 📈 Leetcode Stats  -->
-<!-- [![Leetcode](https://leetcode-badge-showcase.vercel.app/api?username=lamnhuthoa&theme=dark&border=no-border&animated=true)](https://leetcode.com/u/lamnhuthoa/) -->
+# 📈 Leetcode Stats
+[![Leetcode](https://leetcode-badge-showcase.vercel.app/api?username=lamnhuthoa&theme=dark&border=no-border&animated=true)](https://leetcode.com/u/lamnhuthoa/)
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/lamnhuthoa?ext=activity)](https://leetcode.com/lamnhuthoa) -->
 
 ---
