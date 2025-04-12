@@ -72,7 +72,7 @@ Beyond coding, I enjoy learning new tech, solving complex problems, and creating
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lamnhuthoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lamnhuthoa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lamnhuthoa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -84,11 +84,11 @@ Beyond coding, I enjoy learning new tech, solving complex problems, and creating
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lamnhuthoa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=lamnhuthoa&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 <!-- # 📈 Leetcode Stats -->
 <!-- [![Leetcode](https://leetcode-badge-showcase.vercel.app/api?username=lamnhuthoa&theme=dark&border=no-border&animated=true)](https://leetcode.com/u/lamnhuthoa/) -->
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/lamnhuthoa?ext=activity)](https://leetcode.com/lamnhuthoa) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lamnhuthoa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lamnhuthoa&icon=0&color=0)](https://visitcount.itsvg.in) 
