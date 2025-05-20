@@ -1,5 +1,5 @@
 # Hoa Lam  
-### Frontend Developer | Backend Developer | XR Unity Developer
+### Fullstack Developer | XR Unity Developer | AI Enthusiast
 
 
 # 👨‍💻 About Me
