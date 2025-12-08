@@ -6,7 +6,7 @@
 Hello! I’m a developer who loves pushing boundaries, solving problems, and crafting high-quality software.
 I'm a versatile Full Stack Engineer with expertise in React, Angular, and Spring Boot. Passionate about AI, Metaverse, and cutting-edge technologies, I love building scalable applications and exploring innovative solutions.
 
-Beyond coding, I enjoy learning new tech, solving complex problems, and creating AI-driven solutions to enhance user experiences. Let’s connect and build something awesome! 🚀
+Beyond coding, I enjoy learning new tech, singing and recording songs on my Ibanez electric guitar. Let’s connect and build something awesome! 🚀
 
 # 🌐 Social  
 
