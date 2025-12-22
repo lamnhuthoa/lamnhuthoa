@@ -1,5 +1,5 @@
 # Hoa Lam  
-### Fullstack Developer | XR Unity Developer | AI Enthusiast
+### SWED | XR | Applied AI @ Bosch Digital
 
 
 # 👨‍💻 About Me
