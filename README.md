@@ -1,5 +1,5 @@
 # Hoa Lam  
-### SWED | XR | Applied AI @ Bosch Digital
+### SWE | XR | Applied AI @ Bosch Digital
 
 
 # 👨‍💻 About Me
