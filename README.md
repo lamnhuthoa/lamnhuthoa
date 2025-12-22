@@ -3,8 +3,7 @@
 
 
 # 👨‍💻 About Me
-Hello! I’m a developer who loves pushing boundaries, solving problems, and crafting high-quality software.
-I'm a versatile Full Stack Engineer with expertise in React, Angular, and Spring Boot. Passionate about AI, Metaverse, and cutting-edge technologies, I love building scalable applications and exploring innovative solutions.
+I am a multidisciplinary developer working across frontend engineering, applied AI systems, and extended reality (XR). I design and build scalable user interfaces, integrate LLM-based and agent-driven AI capabilities into products, and develop AR/VR experiences that support real-world use cases. My focus is on robust system design, clear human–computer interaction, and delivering practical, production-ready solutions.
 
 Beyond coding, I enjoy learning new tech, singing and recording songs on my Ibanez electric guitar. Let’s connect and build something awesome! 🚀
 
